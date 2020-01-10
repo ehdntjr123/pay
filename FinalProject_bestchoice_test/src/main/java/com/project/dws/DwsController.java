@@ -14,7 +14,7 @@ public class DwsController {
 	@Resource
 	private DwsService service ;
 	
-
+		/*1번 뷰단 확인*/
 		@RequestMapping(value ="/reserve.bc")
 		public String reserve() { 
 			

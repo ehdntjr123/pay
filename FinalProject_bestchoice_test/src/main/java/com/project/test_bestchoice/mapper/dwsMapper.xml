@@ -7,6 +7,8 @@
 <!-- namespace 는 보통 파일명 ( 프로젝트 내에서 고유해야 한다. ) -->
 <mapper namespace="dwsMapper" >
 
+
+
 	
 
 </mapper>
